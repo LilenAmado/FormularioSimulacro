@@ -10,6 +10,7 @@ body{
 h1{
     text-align: center;
     margin-top: 10%;
+    margin-bottom:10px;
 }
 form{
     font-size: 18px;
