@@ -78,5 +78,5 @@ input[type='submit']{
 }
 @media (max-width:520px){ 
     form{width: 80%; margin: auto auto;} 
-    h1{margin-top: 15%;}
+    h1{margin-top: 20%;}
 }
